@@ -1,0 +1,10 @@
+D:\repositories\TransportManagament\TransportManagament\bin\Debug\netcoreapp2.0\TransportManagament.deps.json
+D:\repositories\TransportManagament\TransportManagament\bin\Debug\netcoreapp2.0\TransportManagament.runtimeconfig.json
+D:\repositories\TransportManagament\TransportManagament\bin\Debug\netcoreapp2.0\TransportManagament.runtimeconfig.dev.json
+D:\repositories\TransportManagament\TransportManagament\bin\Debug\netcoreapp2.0\TransportManagament.dll
+D:\repositories\TransportManagament\TransportManagament\bin\Debug\netcoreapp2.0\TransportManagament.pdb
+D:\repositories\TransportManagament\TransportManagament\obj\Debug\netcoreapp2.0\TransportManagament.csproj.CoreCompileInputs.cache
+D:\repositories\TransportManagament\TransportManagament\obj\Debug\netcoreapp2.0\TransportManagament.AssemblyInfoInputs.cache
+D:\repositories\TransportManagament\TransportManagament\obj\Debug\netcoreapp2.0\TransportManagament.AssemblyInfo.cs
+D:\repositories\TransportManagament\TransportManagament\obj\Debug\netcoreapp2.0\TransportManagament.dll
+D:\repositories\TransportManagament\TransportManagament\obj\Debug\netcoreapp2.0\TransportManagament.pdb
